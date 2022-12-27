@@ -5,5 +5,4 @@ Criado para fixar o aprendizado em Flutter, utilizando SharedPreferences e Provi
 
 
 
-<img src="1.png" width="300px" align="center" alt="logo to-do app"><img src="2.png" width="300px" align="center" alt="logo to-do app">
-<img src="3.png" width="300px" align="center" alt="logo to-do app">
+<img src="1.png" width="150px" align="center" alt="logo to-do app"> <img src="2.png" width="150px" align="center" alt="logo to-do app"> <img src="3.png" width="150px" align="center" alt="logo to-do app">
